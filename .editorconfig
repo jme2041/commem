@@ -1,0 +1,11 @@
+
+root = true
+
+# All files
+[*]
+indent_style = space
+indent_size = 4
+trim_trailing_whitespace = true
+insert_final_newline = true
+spelling_exclusion_path = .\exclusion.dic
+spelling_checkable_types = strings,comments
